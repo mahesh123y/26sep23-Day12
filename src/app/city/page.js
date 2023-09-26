@@ -7,7 +7,7 @@ export default function page() {
         <section className="mt-2">
           <h1 className="fs-2 fw-bold mb-3">The City</h1>
           <p className="fs-6">
-            Once you are in the area, you'd understand why Gomti Nagar is
+            Once you are in the area, you had understand why Gomti Nagar is
             regarded as one of the most expensive neighbourhoods of Lucknow.
             Developed by The Lucknow Development Board, Gomti Nagar Extension
             has grown to be a much fancied residential area, emerging both as a
