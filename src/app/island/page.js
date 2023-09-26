@@ -3,7 +3,7 @@ import React from "react";
 export default function page() {
   return (
     <>
-      <div className="col-6">
+      <div className="col-lg-6 col-md-12">
         <section className="mt-2">
           <h1 className="fs-2 fw-bold mb-3">The Island</h1>
           <p className="fs-6">

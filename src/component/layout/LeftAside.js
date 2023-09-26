@@ -3,7 +3,7 @@ import React from 'react'
 
 export default function LeftAside() {
   return (
-    <div className="col-3">
+    <div className="col-lg-3 col-md-12">
       <aside>
         <ul className="nav flex-column">
           <li className="nav-item mb-2">

@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function RightAside() {
   return (
-    <div className="col-3">
+    <div className="col-lg-3 col-md-12">
       <aside className="bg-info text-white p-4">
         <h1 className="fw-bold fs-2">What ?</h1>
         <p className="pb-3">
